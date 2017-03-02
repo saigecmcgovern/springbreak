@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_vl3_mtn_cz">
+    <title>Things to do</title>
+    <shortdesc>This task will explain what we are going to do over spring break when we are not
+        sleeping or eating.</shortdesc>
+    <taskbody>
+        <context>I will be spending all of my time at work.<p>To get ready and get to my
+            work:</p></context>
+        <steps>
+            <step>
+                <cmd>Put on khakis, the collared uniform shirt, your nametag, and non-slip shoes.
+                    Make sure you have your hat and cutting glove in case they want you to work in
+                    the kitchen.</cmd>
+            </step>
+            <step>
+                <cmd>Get in the car and take 7-East to the Leesburg Village. </cmd>
+            </step>
+            <step>
+                <cmd>Take the first right after the exit. You are now in the parking lot. Park, and
+                    go into the store.</cmd>
+            </step>
+            <step>
+                <cmd>Go directly to the back room and clock in. Try to avoid customers as they will
+                    want to talk to you and will make you late to clock in.</cmd>
+            </step>
+            <step>
+                <cmd>Check the whiteboard next to the timeclock to see what you are doing. </cmd>
+            </step>
+            <step>
+                <cmd>Consult a manager for further steps once you have your assignment.</cmd>
+            </step>
+            <step>
+                <cmd>At the end of the day, clock out and take 7-West to get home.</cmd>
+            </step>
+            <step>
+                <cmd>Park your car in the driveway, go inside, and take a nap until you smell
+                    dinner.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
