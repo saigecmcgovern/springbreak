@@ -23,6 +23,14 @@
                     look in the deep freeze. Meat will be on the left hand side, and frozen meals
                     will be on the right.</cmd>
             </step>
+            <step>
+                <cmd>Cook the food as directed.</cmd>
+            </step>
+            <step>
+                <cmd>When you are finished, place all dishes in the dishwasher. If the dishwasher is
+                    full, put soap in the dispenser and hit start on the outside of the
+                    washer.</cmd>
+            </step>
         </steps>
     </taskbody>
 </task>
