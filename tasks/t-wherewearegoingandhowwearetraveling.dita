@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lnd_3qn_cz">
+    <title>Where we are going and how we are getting there</title>
+    <shortdesc>This task will tell you where I am going and how I plan on traveling to and from my
+        destination.</shortdesc>
+    <taskbody>
+        <context>I am headed home, to Leesburg, VA, and will be driving myself.<p>How to get home by
+                car: <image href="../images/packthecar.jpg" id="image_ewm_1rn_cz"/></p></context>
+        <steps>
+            <step>
+                <cmd>After your classes are over, take the bus back to your apartment.</cmd>
+            </step>
+            <step>
+                <cmd>Make sure all the lights are turned off and the trash is taken out.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off all the lights and lock the door.</cmd>
+            </step>
+            <step>
+                <cmd>Double check that you have everything you need in the car.</cmd>
+            </step>
+            <step>
+                <cmd>Get on Route 81-North from Blacksburg. Drive for 3 hours.</cmd>
+            </step>
+            <step>
+                <cmd>Take exit 315 for Winchester and Route 7. Drive for another hour.</cmd>
+            </step>
+            <step>
+                <cmd>Take exit right for Warrenton, VA and Route 15-South. Turn right immediately
+                    onto Route 15. </cmd>
+            </step>
+            <step>
+                <cmd>Take the first left onto Evergreen Mill Road. My house is on the right in .35
+                    miles.</cmd>
+            </step>
+            <step>
+                <cmd>Go inside and make sure my sister carries all your bags. Also, ask my dad for
+                    gas money. Note: He will say no, but it is worth a try.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
