@@ -5,7 +5,8 @@
     <shortdesc>This task will tell you how to find the place you are sleeping and make the
         bed.</shortdesc>
     <taskbody>
-        <context>I will be sleeping at home.<p>To get to your room and make the bed:</p></context>
+        <context>I will be sleeping at home.<image href="../images/sheets.jpg" id="image_dhx_3tn_cz"
+                /><p>To get to your room and make the bed:</p></context>
         <steps>
             <step>
                 <cmd>Go down the stairs to the basement. Once downstairs, open the first door
