@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_pxh_lsn_cz">
+    <title>Sleeping arrangements</title>
+    <shortdesc>This task will tell you how to find the place you are sleeping and make the
+        bed.</shortdesc>
+    <taskbody>
+        <context>I will be sleeping at home.<p>To get to your room and make the bed:</p></context>
+        <steps>
+            <step>
+                <cmd>Go down the stairs to the basement. Once downstairs, open the first door
+                    straight ahead. This is your room.</cmd>
+            </step>
+            <step>
+                <cmd>There will be a pile of sheets and two pillows on the bed. Separate them and
+                    make sure there is a loose sheet, a fitted sheet, and two pillowcases.</cmd>
+            </step>
+            <step>
+                <cmd>Put the fitted sheet on the bed. Yell out if you need help.</cmd>
+            </step>
+            <step>
+                <cmd>Put the loose sheet on over it and fold it down.</cmd>
+            </step>
+            <step>
+                <cmd>Put the pillows inside the pillowcases.</cmd>
+            </step>
+            <step>
+                <cmd>Go into the closet. From the top shelf, take the comforter and place it on the
+                    bed over the sheets. Your bed is now made.  </cmd>
+            </step>
+            <step>
+                <cmd>At the end of the week, put all of the sheets, pillowcases, and the comforter
+                    in the laundry room to be washed.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
