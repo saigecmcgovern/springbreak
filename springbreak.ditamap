@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>springbreak</title>
+ <topicref href="concepts/c-intro.dita"/>
+ <topicref href="tasks/t-wherewearegoingandhowwearetraveling.dita"/>
+ <topicref href="tasks/t-eating.dita"/>
+ <topicref href="tasks/t-sleeping.dita"/>
+ <topicref href="tasks/t-activities.dita"/>
+</map>
