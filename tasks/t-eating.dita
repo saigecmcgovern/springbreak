@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_m53_qrn_cz">
+    <title>Eating arrangements</title>
+    <shortdesc>This will tell you how to get food on spring break</shortdesc>
+    <taskbody>
+        <context>I will be sleeping and eating at home.<p>To find food:</p></context>
+        <steps>
+            <step>
+                <cmd>First, check the refrigerator. My parents don't eat carbs anymore, so most of
+                    our food is in there.</cmd>
+            </step>
+            <step>
+                <cmd>If you are not satisfied with the options in the refrigerator, the pantry is
+                    available as well. Look to the right of the fridge and open the door.</cmd>
+            </step>
+            <step>
+                <cmd>Most of the snacks are on the second and third shelves. Take anything you
+                    want.</cmd>
+            </step>
+            <step>
+                <cmd>If you are looking for frozen meals or any type of meat, go into the garage and
+                    look in the deep freeze. Meat will be on the left hand side, and frozen meals
+                    will be on the right.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
