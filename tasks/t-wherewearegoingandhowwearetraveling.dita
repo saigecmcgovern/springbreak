@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_lnd_3qn_cz">
+<task id="t-wherewearegoingandhowwearetraveling">
     <title>Where we are going and how we are getting there</title>
     <shortdesc>This task will tell you where I am going and how I plan on traveling to and from my
         destination.</shortdesc>
@@ -36,7 +36,7 @@
             </step>
             <step>
                 <cmd>Go inside and make sure my sister carries all your bags. Also, ask my dad for
-                    gas money. Note: He will say no, but it is worth a try.</cmd>
+                    gas money.<b> Note: He will say no, but it is worth a try.</b></cmd>
             </step>
         </steps>
     </taskbody>
