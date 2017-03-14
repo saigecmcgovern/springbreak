@@ -3,6 +3,7 @@
    <appContext helpID="c-intro" path="concepts/c-intro.html"/>
    <appContext helpID="t-wherewearegoingandhowwearetraveling"
                path="tasks/t-wherewearegoingandhowwearetraveling.html"/>
+   <appContext helpID="trouble_u5n_dqw_fz" path="tasks/tr-traveling.html"/>
    <appContext helpID="t-eating" path="tasks/t-eating.html"/>
    <appContext helpID="t-sleeping" path="tasks/t-sleeping.html"/>
    <appContext helpID="t-activities" path="tasks/t-activities.html"/>
