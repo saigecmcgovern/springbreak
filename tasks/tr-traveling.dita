@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="trouble_u5n_dqw_fz">
+  <title>Help: Traveling</title>
+  <troublebody>
+    <condition>
+      <p>You are low on gas.</p>
+    </condition>
+    <troubleSolution>
+      <cause>
+        <title>You forgot to get gas before leaving.</title>
+        <p>Now, you are stuck either on Route 7 or 81 and need to find a safe place to stop. </p>
+      </cause>
+      <remedy>
+        <responsibleParty>Here is how you can make sure you stay safe while getting
+          gas.</responsibleParty>
+        <steps-unordered>
+          <step>
+            <cmd>Determine how long you can wait to get gas, and scout out available exits.</cmd>
+          </step>
+          <step>
+            <cmd>The exits with the most restaurants, gas stations, and businesses are the safest,
+              since they have the most people around and therefore more witnesses.</cmd>
+          </step>
+          <step>
+            <cmd>Only go to well-lit areas, and try not to get too far off the main road.</cmd>
+          </step>
+          <step>
+            <cmd>If you must leave your car unattended, be sure to keep all perosnal belongings with
+              you and lock the doors.</cmd>
+          </step>
+          <step>
+            <cmd>If you feel unsafe, trust your instinct and go somewher else.</cmd>
+          </step>
+        </steps-unordered>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>

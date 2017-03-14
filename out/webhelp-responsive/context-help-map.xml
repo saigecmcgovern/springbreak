@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c-intro" path="concepts/c-intro.html"/>
+   <appContext helpID="t-wherewearegoingandhowwearetraveling"
+               path="tasks/t-wherewearegoingandhowwearetraveling.html"/>
+   <appContext helpID="t-eating" path="tasks/t-eating.html"/>
+   <appContext helpID="t-sleeping" path="tasks/t-sleeping.html"/>
+   <appContext helpID="t-activities" path="tasks/t-activities.html"/>
+</map>
